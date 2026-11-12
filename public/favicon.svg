@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="24" fill="#07090E" />
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="none" stroke="#151B28" stroke-width="2" />
+  <defs>
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+  <!-- Cyber R Glyph -->
+  <path d="M30 26 H56 C67 26 74 32 74 41 C74 49 68 54 58 56 L74 74 H61 L48 57 H42 V74 H30 V26 Z M42 36 V48 H54 C60 48 64 45 64 42 C64 38 60 36 54 36 H42 Z" fill="url(#cyberGrad)" />
+  <circle cx="75" cy="27" r="4" fill="#00F0FF" />
+</svg>
+
